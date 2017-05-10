@@ -1,2 +1,2 @@
-# new-journey
-Starting with with programming
+Programminning 
+New to programming. Medical doctor
